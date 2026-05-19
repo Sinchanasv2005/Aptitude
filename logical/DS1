@@ -1,0 +1,116 @@
+# 🧭 Direction Sense 
+
+
+## First, just imagine you're Google Maps 📍
+
+Every question gives you a **starting point + a path**. Your job = figure out **where you ended up** OR **how far you are from start**.
+
+That's it. Nothing more.
+
+## The ONLY 4 things you need to know
+
+### 1. The compass looks like a plus sign (+)
+
+        North
+          ↑
+West ←----+----→ East
+          ↓
+        South
+
+
+> Trick to remember clockwise order → **"Never Eat Stale Wheat"** = N → E → S → W
+
+
+### 2. Right turn = clockwise. Left turn = anti-clockwise.
+
+Imagine someone taps your right shoulder — you turn that way.
+
+| Facing | Turn Right → | Turn Left → |
+|--------|-------------|------------|
+| North  | East        | West       |
+| East   | South       | North      |
+| South  | West        | East       |
+| West   | North       | South      |
+
+> 🧠 Shortcut: Right turns go **N→E→S→W** | Left turns go **N→W→S→E** (just reverse)
+
+---
+
+### 3. Shadow Rule (only 2 lines)
+
+- **Morning** → shadow falls **West** (sun is in East, shadow is opposite)
+- **Evening** → shadow falls **East** (sun is in West, shadow is opposite)
+
+---
+
+### 4. Shortest Distance = Pythagoras
+
+Whenever they ask *"how far from the starting point"* — it's always a right triangle.
+
+```
+      ↑ 4 km
+      |
+      |______→ 3 km
+
+Distance = √(3² + 4²) = √25 = 5 km ✅
+```
+
+Memorize these 3 triplets and you're done:
+
+- **3 - 4 - 5**
+- **5 - 12 - 13**
+- **8 - 15 - 17**
+
+---
+
+## How to Solve EVERY Question in 3 Steps
+
+```
+Step 1 → Draw the path (just rough arrows on paper)
+Step 2 → Update direction after every turn
+Step 3 → Answer what's asked (direction OR distance)
+```
+
+> ✋ Never try to solve direction sense in your head. Always draw. Even toppers draw it.
+
+---
+
+## One Solved Example (read slowly once)
+
+**Q:** Ravi starts facing North. Walks 5 km. Turns right. Walks 3 km.  
+Where is he from start & how far?
+
+```
+Start here
+    |
+    | 5 km (North)
+    |
+    +--------→ 3 km (turned right = East)
+               [Ravi is HERE]
+```
+
+- Direction from start? → He is to the **North-East**
+- Distance? → √(5² + 3²) = √34 ≈ **5.8 km**
+
+---
+
+## The Only Mistake Everyone Makes ❌
+
+> They add up all the steps: 5 + 3 = 8 km → **WRONG**
+
+Shortest distance = the **straight line** from start to end, not the total path walked.
+
+---
+
+## Quick Revision Cheatsheet
+
+| Concept                   | Remember |
+|---------                  |----------|
+| Compass order (clockwise) | Never Eat Stale Wheat (N→E→S→W) |
+| Right turn                | Clockwise rotation |
+| Left turn                 | Anti-clockwise rotation |
+| Morning shadow            | Falls West |
+| Evening shadow            | Falls East |
+| Shortest distance         | Use Pythagoras √(x² + y²) |
+| Key triplets              |  3-4-5 / 5-12-13 / 8-15-17 |
+
