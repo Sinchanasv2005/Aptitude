@@ -1,0 +1,59 @@
+1.Formula
+P(Event) = Favourable Outcomes / Total Outcomes
+
+2.Tossing a coin
+Sample Space→  { H, T }          (all possible outcomes)
+Event       →  Getting Head = {H} (what you want)
+
+3.Complementary Event
+P(A) + P(not A) = 1
+So → P(not A) = 1 - P(A)
+Trick: When "at least one" appears in question → use complement method
+P(at least one) = 1 - P(none)
+
+4.Deck of Cards Breakdown
+Total = 52 cards
+
+4 Suits     → Hearts, Diamonds, Spades, Clubs
+              (Hearts & Diamonds = RED)
+              (Spades & Clubs = BLACK)
+
+Each suit   → 13 cards (A,2,3,4,5,6,7,8,9,10,J,Q,K)
+
+Face cards  → J, Q, K  → 3 × 4 = 12 face cards
+Aces        → 4 aces
+
+
+5.Two Dice — Must Know Table
+Sum = 2  → (1,1)              → 1 way
+Sum = 3  → (1,2)(2,1)         → 2 ways
+Sum = 4  → 3 ways
+Sum = 5  → 4 ways
+Sum = 6  → 5 ways
+Sum = 7  → 6 ways  ← HIGHEST probability
+Sum = 8  → 5 ways
+Sum = 9  → 4 ways
+Sum = 10 → 3 ways
+Sum = 11 → 2 ways
+Sum = 12 → 1 way
+
+6.AND vs OR Rule
+P(A or B) = P(A) + P(B)
+P(A and B) = P(A) × P(B)
+
+
+Step-by-Step Method to Solve Any Problem
+Step 1 → Read and identify the experiment
+Step 2 → Find Total Outcomes (sample space)
+Step 3 → Find Favourable Outcomes
+Step 4 → Check: AND or OR or complement?
+Step 5 → Apply formula
+Step 6 → Simplify the fraction
+
+--------
+Common Mistakes to Avoid
+❌ Forgetting to subtract common events in OR rule
+❌ Not simplifying the final fraction
+❌ Confusing "at least 1" with "exactly 1"
+❌ Wrong total sample space (especially cards and dice)
+❌ Not checking if events are independent before multiplying
